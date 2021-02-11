@@ -1,4 +1,4 @@
-## From my talk  "Controlling your race with Micrometer, Spring Boot and Cloud Foundry"
+## From my talk  "Controlling your race with Micrometer and Spring Boot"
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kqNMOJRfGIg/0.jpg)](https://youtu.be/kqNMOJRfGIg)
 
 ### Slides <br>
